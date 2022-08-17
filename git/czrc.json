@@ -228,13 +228,10 @@
     "authors": [
         {
             "name": "Shafiqul Islam",
-            "email": "shafiqul@sheba.xyz"
+            "email": "shafiqul@polygontech.xyz"
         }, {
             "name": "Hasan Hafiz Pasha",
             "email": "mac.pasha@gmail.com"
-        }, {
-            "name": "Arnab Rahman",
-            "email": "arnab.startern@gmail.com"
         }, {
             "name": "Saiful Islam Miajee",
             "email": "miajee@sheba.xyz"
@@ -242,22 +239,14 @@
             "name": "Saddam Hossain",
             "email": "tonmoy@sheba.xyz"
         }, {
-            "name": "Abdullah Al Shakib Arnab",
-            "email": "abdullah.arnab@sheba.xyz"
-        }, {
             "name": "Shovan Chowdhury",
             "email": "shovancse0918@gmail.com"
-        }, {
-	    "name": "MD Rashad Akhtar",
-	    "email": "rashad@sheba.xyz"
-	}
+        }
     ],
     "issue_trackers": [
-        "JIRA",
-        "BUGSNAG",
-        "SENTRY"
+        "ClickUp"
     ],
-    "default_issue_tracker": "JIRA",
+    "default_issue_tracker": "ClickUp",
     "section_headers": {
         "types": "Type(s): ",
         "scopes": "Scope(s): ",
