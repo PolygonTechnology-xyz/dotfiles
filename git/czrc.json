@@ -18,7 +18,7 @@
         }
     ],
     "issue_trackers": [
-        "ClickUp"
+        "ClickUp", "elaach"
     ],
-    "default_issue_tracker": "ClickUp"
+    "default_issue_tracker": "elaach"
 }
